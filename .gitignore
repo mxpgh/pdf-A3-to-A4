@@ -27,3 +27,6 @@ bug/
 # Claude Code local settings
 .claude/
 
+# Personal dev diary
+VIBE_CODING_DIARY.md
+
