@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Test fixtures and outputs (large binaries)
+test_a3_exam.pdf
+test_scanned_a3.pdf
+test_output/
+
+# Local backup snapshots
+bug/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local settings
+.claude/
+
